@@ -48,7 +48,6 @@ header a {
 footer {
   text-align: center;
   margin: 30px auto;
-  color: blue;
 }
 @media (max-width: 900px) {
   header {
